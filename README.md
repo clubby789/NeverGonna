@@ -1,8 +1,9 @@
 
 # NeverGonna
- A terrible Python implementation of the Rick Astley-inspired esoteric language 'EsoLang'
+ A terrible Python implementation of the Rick Astley-inspired esoteric language 'NeverGonna'
 ## What is it?
 [https://esolangs.org/wiki/NeverGonna](https://esolangs.org/wiki/NeverGonna)
+
 I was browsing the esolangs wiki and came across this. I thought it was interesting, and I couldn't find any implementations, so I decided to write my own.
 
 Currently has minimal features and only an interpreter (can't run programs).
